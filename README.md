@@ -8,7 +8,7 @@ satisfied with the implementation. Feel free to try it out and
 modify as you see fit!
 
 ## Using the Patch
-All you need to do is open `main.pd`, set up your MIDI input device, and turn audio on (`cmd+/`). Saving the patch (`cmd+s`) will save all 
+All you need to do is open `pd/main.pd`, set up your MIDI input device, and turn audio on (`cmd+/`). Saving the patch (`cmd+s`) will save all 
 the parameters, effectively giving you one preset.
 
 ## Controls
