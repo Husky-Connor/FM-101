@@ -15,6 +15,7 @@ the parameters, effectively giving you one preset.
 * Volume
 * Algorithm Select
 * 3x Operator Ratios
+* Modulation Index
 * ADSR Envelope Generator
 * Sweeping BP Filter
 
