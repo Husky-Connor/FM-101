@@ -1,0 +1,15 @@
+#N canvas 205 264 201 247 10;
+#X obj 37 173 osc~;
+#X obj 63 19 inlet~;
+#X obj 37 212 outlet~;
+#X obj 63 47 modfreqs;
+#X obj 33 97 modulate;
+#X obj 39 132 modulate;
+#X text 114 18 Algo 1;
+#X connect 0 0 2 0;
+#X connect 1 0 3 0;
+#X connect 3 0 4 0;
+#X connect 3 1 4 1;
+#X connect 3 2 5 1;
+#X connect 4 0 5 0;
+#X connect 5 0 0 0;
